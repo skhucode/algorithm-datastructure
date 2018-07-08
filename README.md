@@ -1,4 +1,7 @@
+![](./img/skhucode.png)
+
 # SKHUCODE 😁
+
 > 성공회대학교 알고리즘/자료구조 스터디 모임입니다 :)
 
 ---
@@ -25,6 +28,8 @@
 - 장소 대여 - 최태훈
 - 스케줄 조정 - 김지혜
 - 회의록 정리 - 이혜지
+
+## [회계문서](https://drive.google.com/drive/folders/1FddQwMZWURVWnUAG2D4OnJAouA35-aNw?usp=sharing)
 
 ## 회칙
 
