@@ -1,4 +1,4 @@
-#SKHUCODE 1주차
+# SKHUCODE 1주차
 
 2018 - 07 - 09/ 6 PM/ 1406
 
