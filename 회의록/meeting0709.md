@@ -40,7 +40,7 @@
   + 숫자 카드 (**10815**)
 
     > + **LinkedHashSet** : 자료 삽입 순서가 보장됨
-    > + `Integer.parsInt()`: 기본 자료형 반환
+    > + `Integer.parseInt()`: 기본 자료형 반환
     > + `Integer.valueOf()` :  객체 반환
     > + **다형성**을 위해 인터페이스형 변수에 객체 생성
 
