@@ -29,8 +29,6 @@
 - 스케줄 조정 - 김지혜
 - 회의록 정리 - 이혜지
 
-## [회계문서](https://drive.google.com/drive/folders/1FddQwMZWURVWnUAG2D4OnJAouA35-aNw?usp=sharing)
-
 ## 회칙
 
 1. 우리만 잘 되자고 하는 스터디가 아닙니다. 다른 사람들도 도움을 얻을 수 있다는 생각으로 자료를 잘 정리합니다.
