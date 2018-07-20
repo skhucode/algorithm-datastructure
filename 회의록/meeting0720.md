@@ -33,19 +33,19 @@
 
     > 이승진교수님 강의자료 참고하여 간결하게 구현!
     >
+    > ``` java
     > @Override
-    >
+    > 
     > public int compareTo(Point that){
-    >
-    > ​	int r = this.r - that.r;
-    >
-    > ​       if(r!=0) return r;
-    >
-    > ​	return this.y-that.y;
-    >
+    > 
+    > 	int r = this.r - that.r;
+    > 
+    >        if(r!=0) return r;
+    > 
+    > 	return this.y-that.y;
+    > 
     > }
-
-  
+    > ```
 
   - **BigInteger**
 
